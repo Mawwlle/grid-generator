@@ -1,0 +1,4 @@
+grid_generator
+examples/gen_examples
+*.o
+.DS_Store
